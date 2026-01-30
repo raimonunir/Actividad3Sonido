@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9a8203fe-f61f-4be0-b318-079553ea0d5e}">
+		<property name="assetPath">
+			<value>Ambient/Amb_Night-at-the-forest.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>175.95833333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cf4c32aa-5ffa-49ab-a900-9dce3528f296}</destination>
+		</relationship>
+	</object>
+</objects>
