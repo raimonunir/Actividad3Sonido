@@ -1,5 +1,11 @@
 # Actividad de Laboratorio – Implementación de Audio en Unreal Engine y FMOD
 
+## Entrega
+Además de este memoría se facilitan los enlaces a:
+* Un vídeo explicativo: https://drive.google.com/file/d/1R18hkFob8dFZzL4bWfG9LXIlqevqWeeX/view?usp=sharing 
+* Repositorio que incluye proyecto de FMOD y de Unreal:
+https://github.com/raimonunir/Actividad3Sonido 
+
 ## Descripción general
 
 Este proyecto corresponde a la **Actividad de Laboratorio de Implementación de Audio en Unreal Engine y FMOD**, cuyo objetivo principal es demostrar la integración de un sistema de audio dinámico para un videojuego en tercera persona, aplicando técnicas de diseño de sonido vistas en clase.
