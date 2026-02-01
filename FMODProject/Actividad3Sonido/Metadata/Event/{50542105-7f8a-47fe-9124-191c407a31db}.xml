@@ -5,7 +5,7 @@
 			<value>AppleBitEvent</value>
 		</property>
 		<property name="outputFormat">
-			<value>0</value>
+			<value>2</value>
 		</property>
 		<relationship name="folder">
 			<destination>{024f00b2-f8db-4ae0-a65d-861b7575809d}</destination>
@@ -56,7 +56,14 @@
 			<destination>{42d7eca3-49f9-4931-ba19-327cdfaffabb}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{79ef7dae-1cd8-44c6-ac2e-50eafbe2b17b}" />
+	<object class="EventAutomatableProperties" id="{79ef7dae-1cd8-44c6-ac2e-50eafbe2b17b}">
+		<property name="minimumDistance">
+			<value>2.79999995</value>
+		</property>
+		<property name="maximumDistance">
+			<value>6.80000019</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{ea68c1e4-ef2f-4a00-9353-44621ebff90d}" />
 	<object class="GroupTrack" id="{16c77d09-f943-40c8-81e7-771ae7203e95}">
 		<relationship name="modules">
@@ -116,6 +123,7 @@
 	<object class="MixerBusEffectChain" id="{5a093bd2-dfc3-4d07-bb2a-18fd8b402cad}">
 		<relationship name="effects">
 			<destination>{9a29cdb7-5fa2-4e1c-ad89-a61022f01e2c}</destination>
+			<destination>{b402b90b-bcf1-454b-8542-a219b7451bc1}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3ffe3582-8097-4873-adc9-3f618d4faa7f}" />
@@ -127,5 +135,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{ec2d2ebe-2600-49f2-a37a-56890f57f743}" />
 	<object class="MixerBusFader" id="{9a29cdb7-5fa2-4e1c-ad89-a61022f01e2c}" />
+	<object class="SpatialiserEffect" id="{b402b90b-bcf1-454b-8542-a219b7451bc1}" />
 	<object class="MixerBusFader" id="{d3b8a491-f923-4332-97ae-11f4e54e0023}" />
 </objects>
