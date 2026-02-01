@@ -87,7 +87,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{cd393261-01e7-4e39-85b7-6314cda54d06}">
 		<property name="volume">
-			<value>7</value>
+			<value>3</value>
 		</property>
 		<property name="overridingInputFormat">
 			<value>0</value>
