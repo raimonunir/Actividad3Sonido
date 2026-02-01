@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c67ccd9e-576e-4648-bbd8-76dc96158d0f}">
+		<property name="assetPath">
+			<value>Sfx/Steps/Grass/S_Grass_Mono_Without_Hitting_Boot_4.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.75</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2cb9cea2-4fae-4025-9560-fdceb48a352c}</destination>
+		</relationship>
+	</object>
+</objects>

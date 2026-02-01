@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e9b1861a-3ec2-42fd-b278-c246daaf03e9}">
+		<property name="assetPath">
+			<value>Sfx/Steps/Stone/S_Concrete_Mono_4.WAV</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.68750566893424037</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2cb9cea2-4fae-4025-9560-fdceb48a352c}</destination>
+		</relationship>
+	</object>
+</objects>
